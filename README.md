@@ -1,4 +1,2 @@
-# Portfolio
-ML Projects
-
-EDA 
+# Portfolio in progress
+MLand Data Science Projects
