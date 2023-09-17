@@ -1,4 +1,4 @@
-Machine Learning and Data Science Projects
+This notebook is bent towards model evaluation metrics heavily.
 
   *Apt representation of myself working on the projects*
 
