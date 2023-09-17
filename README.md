@@ -1,4 +1,4 @@
-This notebook is bent towards model evaluation metrics heavily.
+This notebook demonstrates some of the most useful features of the scikit-learn library. The focus is mainly on statistical analysis and model evaluation techniques.
 
   *Apt representation of myself working on the projects*
 
